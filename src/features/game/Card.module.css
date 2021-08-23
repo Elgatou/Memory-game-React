@@ -1,0 +1,26 @@
+.open {
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.close {
+  background-color: darkgray;
+  cursor: pointer;
+}
+
+.deleted {
+  background-color: white;
+}
+
+.card {
+  width: 80px;
+  height: 80px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.cards {
+  display: flex;
+  width: 740px;
+  flex-wrap: wrap;
+}
