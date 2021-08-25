@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/memory-game-react/static/css/main.af06e7c8.chunk.css",
+    "main.js": "/memory-game-react/static/js/main.d9378b27.chunk.js",
+    "main.js.map": "/memory-game-react/static/js/main.d9378b27.chunk.js.map",
+    "runtime-main.js": "/memory-game-react/static/js/runtime-main.fb1b3dd0.js",
+    "runtime-main.js.map": "/memory-game-react/static/js/runtime-main.fb1b3dd0.js.map",
+    "static/js/2.fe065f0e.chunk.js": "/memory-game-react/static/js/2.fe065f0e.chunk.js",
+    "static/js/2.fe065f0e.chunk.js.map": "/memory-game-react/static/js/2.fe065f0e.chunk.js.map",
+    "index.html": "/memory-game-react/index.html",
+    "static/css/main.af06e7c8.chunk.css.map": "/memory-game-react/static/css/main.af06e7c8.chunk.css.map",
+    "static/js/2.fe065f0e.chunk.js.LICENSE.txt": "/memory-game-react/static/js/2.fe065f0e.chunk.js.LICENSE.txt",
+    "static/media/001-fence.b34bd5c6.svg": "/memory-game-react/static/media/001-fence.b34bd5c6.svg",
+    "static/media/002-wind.86b2eb72.svg": "/memory-game-react/static/media/002-wind.86b2eb72.svg",
+    "static/media/003-leaf.b855b1c9.svg": "/memory-game-react/static/media/003-leaf.b855b1c9.svg",
+    "static/media/004-tea mug.915b72ee.svg": "/memory-game-react/static/media/004-tea mug.915b72ee.svg",
+    "static/media/005-bush.53c7c4d2.svg": "/memory-game-react/static/media/005-bush.53c7c4d2.svg",
+    "static/media/006-kite.c73c71b6.svg": "/memory-game-react/static/media/006-kite.c73c71b6.svg",
+    "static/media/007-rain boots.4e82f921.svg": "/memory-game-react/static/media/007-rain boots.4e82f921.svg",
+    "static/media/008-shovel.02b2c4b5.svg": "/memory-game-react/static/media/008-shovel.02b2c4b5.svg",
+    "static/media/009-wine glass.13e05738.svg": "/memory-game-react/static/media/009-wine glass.13e05738.svg",
+    "static/media/010-sunflower.88035936.svg": "/memory-game-react/static/media/010-sunflower.88035936.svg",
+    "static/media/011-pumpkin.24f9dd81.svg": "/memory-game-react/static/media/011-pumpkin.24f9dd81.svg",
+    "static/media/012-pear.8e4bdfa2.svg": "/memory-game-react/static/media/012-pear.8e4bdfa2.svg",
+    "static/media/013-mushroom.043d9b0d.svg": "/memory-game-react/static/media/013-mushroom.043d9b0d.svg",
+    "static/media/014-leaf.3e0f3ef7.svg": "/memory-game-react/static/media/014-leaf.3e0f3ef7.svg",
+    "static/media/015-acorn.c17f2963.svg": "/memory-game-react/static/media/015-acorn.c17f2963.svg",
+    "static/media/016-squirrel.818feecf.svg": "/memory-game-react/static/media/016-squirrel.818feecf.svg",
+    "static/media/017-grapes.c91f4808.svg": "/memory-game-react/static/media/017-grapes.c91f4808.svg",
+    "static/media/018-honeycomb.fdc7344f.svg": "/memory-game-react/static/media/018-honeycomb.fdc7344f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1b3dd0.js",
+    "static/js/2.fe065f0e.chunk.js",
+    "static/css/main.af06e7c8.chunk.css",
+    "static/js/main.d9378b27.chunk.js"
+  ]
+}
